@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc7639&theme=dark&count_private=true)](https://github.com/sc7639/sc7639)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc7639&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats))
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc7639&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SC7639/SC7639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
